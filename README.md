@@ -27,7 +27,7 @@ package main
 
 import (
     "fmt"
-    wechatbot "github.com/user/wechatbot-go-sdk"
+    wechatbot "github.com/oocsoo/wechatbot-go-sdk"
 )
 
 func main() {
